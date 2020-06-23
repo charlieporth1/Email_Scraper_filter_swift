@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		50DB279B2474468F00D957EA /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 50DB279A2474468F00D957EA /* main.swift */; };
+		50DB27A2247446EE00D957EA /* EmailListObject.swift in Sources */ = {isa = PBXBuildFile; fileRef = 50DB27A1247446EE00D957EA /* EmailListObject.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -25,6 +26,7 @@
 /* Begin PBXFileReference section */
 		50DB27972474468F00D957EA /* filter */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = filter; sourceTree = BUILT_PRODUCTS_DIR; };
 		50DB279A2474468F00D957EA /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		50DB27A1247446EE00D957EA /* EmailListObject.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EmailListObject.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 			isa = PBXGroup;
 			children = (
 				50DB279A2474468F00D957EA /* main.swift */,
+				50DB27A1247446EE00D957EA /* EmailListObject.swift */,
 			);
 			path = filter;
 			sourceTree = "<group>";
@@ -121,6 +124,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				50DB279B2474468F00D957EA /* main.swift in Sources */,
+				50DB27A2247446EE00D957EA /* EmailListObject.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
